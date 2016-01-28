@@ -14,12 +14,15 @@ div{
 	
 }
 .pdl5{
-	padding-left: 5px;
+	padding-left: 2%;
 }
-.pdt5{git 
-	padding-top: 5px;
+.pdt5{
+	padding-top: 2%;
 
 }
 .may{
 	text-transform: uppercase;
+}
+.p{
+	display:inline; 
 }
